@@ -92,4 +92,3 @@ int  listBurger(Product *p,int now) {
     return 1;
 }
 
-
