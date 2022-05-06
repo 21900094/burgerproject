@@ -91,3 +91,5 @@ int  listBurger(Product *p,int now) {
     if(count<=0)return 0;
     return 1;
 }
+
+
